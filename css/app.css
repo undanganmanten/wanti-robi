@@ -98,7 +98,7 @@ main{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; */
-  background-color: #b29884;
+  background-color: #36271c;
   height: 90vh;
 }
 
@@ -156,8 +156,8 @@ main{
 
 .button-coklat{
   background-color: transparent;
-  color: #b29884;
-  border: 1px solid #b29884;
+  color: #36271c;
+  border: 1px solid #36271c;
 }
 
 .button-open:hover{
@@ -167,7 +167,7 @@ main{
 
 .main-color{
   /* color: #fff9f4; */
-  color: #b29884;
+  color: #36271c;
 }
 
 .white-color{
@@ -175,14 +175,14 @@ main{
 }
 
 .navbar-background{
-  background-color: #b29884 !important;
+  background-color: #36271c !important;
   color: #a4bcc5;
   box-shadow: 0px -2px 100px rgba(255, 255, 255, 0.5);
 }
 
 #home{
     height: 95vh;
-    background: url("../assets/images/gallery/13.jpg");
+    background: url("../assets/images/gallery/cover-top.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -209,7 +209,7 @@ main{
 }
 
 .box-isra p, .box-isra span{
-  color: #b29884;
+  color: #36271c;
 }
 
 #mempelai{
@@ -218,7 +218,7 @@ main{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center; */
-    background-color: #b29884;
+    background-color: #36271c;
     padding: 110px 0;
 }
 
@@ -525,7 +525,7 @@ input[type="radio"] {
   background-position: center center; */
   margin-top: -50px !important;
   width: 100%;
-  background-color: #b29884;
+  background-color: #36271c;
 }
 
 .penutup{
