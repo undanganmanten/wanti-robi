@@ -182,7 +182,11 @@ main{
 
 #home{
     height: 95vh;
+<<<<<<< HEAD
     background: url("../assets/images/gallery/cover-top.JPG");
+=======
+    background: url("../assets/images/gallery/13.JPG");
+>>>>>>> 6098601abf2be2a41da8b6cd0a8f883f76f59c59
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
